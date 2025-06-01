@@ -22,7 +22,7 @@ The repository contains two nearly identical sketches:
 4. Ensure both boards are powered and have antennas attached
 5. Open serial monitors for both boards (115200 baud) to view communication
 
-## Configuration
+## Configuration parameters
 
 Key configuration parameters:
 - `RF95_FREQ`: Set to 915.0 MHz (adjust for your region)
